@@ -16,7 +16,7 @@ abstract class HomeViewModel extends State<HomeView> {
   Future<void> _init() async {
     final greeterService = GreeterServiceHandler();
 
-    final request = HelloRequest()..name = 'World';
+    final request = HelloRequest()..name = 'gRPC';
 
     final response = await greeterService.sayHello(request);
 
