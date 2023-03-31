@@ -1,6 +1,8 @@
 # Flutter gRPC Client Example
 
-This project demonstrates how to create a [gRPC](https://grpc.io/ "gRPC") client in Flutter. The project uses the grpc package from pub.dev to create the client.
+This project demonstrates how to create a [gRPC](https://grpc.io/ "gRPC") client in Flutter. The project uses the grpc package from pub.dev to create the client. 
+
+Server implementation source code can be found [here](https://github.com/SalihCanBinboga/basic_grpc_typescript_example "here").
 
 ## Articles
 
